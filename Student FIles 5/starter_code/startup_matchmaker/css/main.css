@@ -186,19 +186,45 @@ footer {
 	padding: 2% 3%;
 }
 
+#hamburger-button {
+	color: white;
+	font-size: 30px;
+	display: none;
+}
+
 /*MOBILE*/
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:600px) {
   .desktop-nav {
     display: none;
   }
 
-	#page-header nav {
-		display: none;
+.wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+.top-wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+
+.hamburger-wrapper {
+	display: flex;
+	align-items: center;
+}
+	#hamburger-button {
+		color: white;
+		font-size: 30px;
+		display: block;
 	}
 
 	.tagline {
 	display: none;
+	}
+
+	.wrapper nav {
+		/*display: none;*/
 	}
 
 	#page-header h1 {
@@ -208,3 +234,29 @@ footer {
 		font-size: 30px;
 		padding-bottom: 20px;
 	}
+
+	#page-header nav li {
+		float: none;
+		text-align: center;
+	}
+
+	#page-header nav {
+		float: none;
+		display: none;
+	}
+
+	.blurb {
+		background: rgba(255,255,255,.9);
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+.tout {
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.tout h3 {
+	text-align: center;
+}
