@@ -1,0 +1,607 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<title>The Startup Matchmaker Blog<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^					<li><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^					<li><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^					<li><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^					<li><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/blog.html	/^					<li class="active"><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^body {$/;"	function	line:1
+.wrapper	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.wrapper {$/;"	function	line:8
+h1	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^h1 {$/;"	function	line:13
+h2	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^h2 {$/;"	function	line:17
+h3	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^h3 {$/;"	function	line:21
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^p {$/;"	function	line:26
+.button	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.button {$/;"	function	line:30
+#page-header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header {$/;"	function	line:45
+#page-header a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header a {$/;"	function	line:52
+#page-header h1	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header h1 {$/;"	function	line:56
+#page-header nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav {$/;"	function	line:63
+#page-header nav li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav li {$/;"	function	line:66
+#page-header nav a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav a {$/;"	function	line:69
+#page-header nav li a:hover	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav li a:hover {$/;"	function	line:73
+#page-header nav li.active a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav li.active a {$/;"	function	line:76
+#page-header nav strong	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav strong {$/;"	function	line:79
+#page-header nav strong a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^#page-header nav strong a {$/;"	function	line:83
+.tagline	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tagline {$/;"	function	line:87
+.tagline del	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tagline del {$/;"	function	line:98
+.tagline ins	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tagline ins {$/;"	function	line:101
+.banner	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.banner {$/;"	function	line:106
+.blurb	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.blurb {$/;"	function	line:114
+.touts	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.touts {$/;"	function	line:123
+.tout	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tout {$/;"	function	line:129
+.tout:last-child	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tout:last-child {$/;"	function	line:135
+.tout .button	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tout .button {$/;"	function	line:138
+.profiles	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.profiles {$/;"	function	line:142
+.cards	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.cards {$/;"	function	line:146
+.card	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.card {$/;"	function	line:149
+.card img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.card img {$/;"	function	line:153
+.card article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.card article {$/;"	function	line:156
+.card .button	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.card .button {$/;"	function	line:161
+.tags	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tags {$/;"	function	line:165
+.tags li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tags li {$/;"	function	line:169
+.tags li a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^.tags li a {$/;"	function	line:172
+footer	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/main.css	/^footer {$/;"	function	line:183
+html, body, div, span, applet, object, iframe	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^html, body, div, span, applet, object, iframe,$/;"	function	line:6
+h1, h2, h3, h4, h5, h6, p, blockquote, pre	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	function	line:7
+a, abbr, acronym, address, big, cite, code	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^a, abbr, acronym, address, big, cite, code,$/;"	function	line:8
+del, dfn, em, img, ins, kbd, q, s, samp	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	function	line:9
+small, strike, strong, sub, sup, tt, var	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^small, strike, strong, sub, sup, tt, var,$/;"	function	line:10
+b, u, i, center	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^b, u, i, center,$/;"	function	line:11
+dl, dt, dd, ol, ul, li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^dl, dt, dd, ol, ul, li,$/;"	function	line:12
+fieldset, form, label, legend	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^fieldset, form, label, legend,$/;"	function	line:13
+table, caption, tbody, tfoot, thead, tr, th, td	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	function	line:14
+article, aside, canvas, details, embed	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^article, aside, canvas, details, embed, $/;"	function	line:15
+figure, figcaption, footer, header, hgroup	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^figure, figcaption, footer, header, hgroup, $/;"	function	line:16
+menu, nav, output, ruby, section, summary	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^menu, nav, output, ruby, section, summary,$/;"	function	line:17
+time, mark, audio, video	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^time, mark, audio, video {$/;"	function	line:18
+article, aside, details, figcaption, figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^article, aside, details, figcaption, figure, $/;"	function	line:27
+footer, header, hgroup, menu, nav, section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^footer, header, hgroup, menu, nav, section {$/;"	function	line:28
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^body {$/;"	function	line:31
+ol, ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^ol, ul {$/;"	function	line:34
+blockquote, q	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^blockquote, q {$/;"	function	line:37
+blockquote:before, blockquote:after	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^blockquote:before, blockquote:after,$/;"	function	line:40
+q:before, q:after	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^q:before, q:after {$/;"	function	line:41
+table	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/css/reset.css	/^table {$/;"	function	line:45
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<title>Find Designers on Startup Matchmaker<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<li><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<li class="active"><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<li><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<li><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<li><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<section class="profiles">$/;"	function	line:25
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^		<div class="wrapper">$/;"	function	line:26
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^			<ul class="cards">$/;"	function	line:27
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:28
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:29
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:30
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:31
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:32
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:34
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:35
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:36
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:37
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:39
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:42
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:43
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:44
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:45
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:46
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:48
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:49
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:50
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:51
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:53
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:56
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:57
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:58
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:59
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:60
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:62
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:63
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:64
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:65
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:67
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:70
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:71
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:72
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:73
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:74
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:76
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:77
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:78
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:79
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:81
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:84
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:85
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:86
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:87
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:88
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:90
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:91
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:92
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:93
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:95
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:98
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:99
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:100
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:101
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:102
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:104
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:105
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:106
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:107
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:109
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:112
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:113
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:114
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:115
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:116
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:118
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:119
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:120
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:121
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:123
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:126
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:127
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:128
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:129
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:130
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:132
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:133
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:134
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:135
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:137
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:140
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:141
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:142
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:143
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:144
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:146
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:147
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:148
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:149
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:151
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:154
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:155
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:156
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:157
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:158
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:160
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:161
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:162
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:163
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:165
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:168
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:169
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:170
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:171
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:172
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:174
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:175
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:176
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:177
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:179
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:182
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:183
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:184
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:185
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:186
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:188
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:189
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:190
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:191
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:193
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:196
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:197
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:198
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:199
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:200
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:202
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:203
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:204
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:205
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:207
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:210
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:211
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:212
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:213
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:214
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:216
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:217
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:218
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:219
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:221
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:224
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:225
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:226
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:227
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:228
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:230
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:231
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:232
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:233
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:235
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:238
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:239
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:240
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:241
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:242
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:244
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:245
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:246
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:247
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:249
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:252
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:253
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:254
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:255
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:256
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:258
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:259
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:260
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:261
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:263
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:266
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:267
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:268
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:269
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:270
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:272
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:273
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:274
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:275
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:277
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:280
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:281
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:282
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:283
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:284
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:286
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:287
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:288
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:289
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:291
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^				<li class="card">$/;"	function	line:294
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^					<article class="profile">$/;"	function	line:295
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<figure>$/;"	function	line:296
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:297
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:298
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<ul class="tags">$/;"	function	line:300
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">UX<\/a><\/li>$/;"	function	line:301
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Illustration<\/a><\/li>$/;"	function	line:302
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^							<li><a href="#">Graphic Design<\/a><\/li>$/;"	function	line:303
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:305
+footer	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^	<footer>$/;"	function	line:311
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/designers.html	/^		<div class="wrapper">$/;"	function	line:312
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<title>Find Developers on Startup Matchmaker<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<li class="active"><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<li><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<li><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<li><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<li><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<section class="profiles">$/;"	function	line:25
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^		<div class="wrapper">$/;"	function	line:26
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^			<ul class="cards">$/;"	function	line:27
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:28
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:29
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:30
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:31
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:32
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:34
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:35
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:36
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:37
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:39
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:42
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:43
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:44
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:45
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:46
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:48
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:49
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:50
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:51
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:53
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:56
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:57
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:58
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:59
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:60
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:62
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:63
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:64
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:65
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:67
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:70
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:71
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:72
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:73
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:74
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:76
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:77
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:78
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:79
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:81
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:84
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:85
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:86
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:87
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:88
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:90
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:91
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:92
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:93
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:95
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:98
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:99
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:100
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:101
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:102
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:104
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:105
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:106
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:107
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:109
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:112
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:113
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:114
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:115
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:116
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:118
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:119
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:120
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:121
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:123
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:126
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:127
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:128
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:129
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:130
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:132
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:133
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:134
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:135
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:137
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:140
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:141
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:142
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:143
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:144
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:146
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:147
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:148
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:149
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:151
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:154
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:155
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:156
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:157
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:158
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:160
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:161
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:162
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:163
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:165
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:168
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:169
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:170
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:171
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:172
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:174
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:175
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:176
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:177
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:179
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:182
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:183
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:184
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:185
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:186
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:188
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:189
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:190
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:191
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:193
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:196
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:197
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:198
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:199
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:200
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:202
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:203
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:204
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:205
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:207
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:210
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:211
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:212
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:213
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:214
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:216
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:217
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:218
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:219
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:221
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:224
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:225
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:226
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:227
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:228
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:230
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:231
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:232
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:233
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:235
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:238
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:239
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:240
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:241
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:242
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:244
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:245
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:246
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:247
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:249
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:252
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:253
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:254
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:255
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:256
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:258
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:259
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:260
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:261
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:263
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:266
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:267
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:268
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:269
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:270
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:272
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:273
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:274
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:275
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:277
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:280
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:281
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:282
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:283
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:284
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:286
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:287
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:288
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:289
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:291
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^				<li class="card">$/;"	function	line:294
+article	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^					<article class="profile">$/;"	function	line:295
+figure	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<figure>$/;"	function	line:296
+img	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<img src="http:\/\/placehold.it\/280" alt="Some Person">$/;"	function	line:297
+figcaption	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<figcaption>Some Person<\/figcaption>$/;"	function	line:298
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<ul class="tags">$/;"	function	line:300
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">HTML<\/a><\/li>$/;"	function	line:301
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">CSS<\/a><\/li>$/;"	function	line:302
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^							<li><a href="#">JS<\/a><\/li>$/;"	function	line:303
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^						<a class="button" href="#">Contact<\/a>$/;"	function	line:305
+footer	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^	<footer>$/;"	function	line:311
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/developers.html	/^		<div class="wrapper">$/;"	function	line:312
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<title>Startup Matchmaker | How it Works<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^					<li><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^					<li><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^					<li class="active"><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^					<li><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/how.html	/^					<li><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<title>Startup Matchmaker<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<li><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<li><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<li><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<li><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<li><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<p class="tagline">Because two brains <del>taste<\/del> <ins>are<\/ins> better than&nbsp;one.<\/p>$/;"	function	line:25
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<section class="banner">$/;"	function	line:26
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^		<div class="wrapper">$/;"	function	line:27
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<div class="blurb">$/;"	function	line:28
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<h2>Meet your Match!<\/h2>$/;"	function	line:29
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<p>Have a great idea for a product, but need help making it a reality? We’re here to help. Startup Matchmaker is the best place for designers and developers to find each other.<\/p>$/;"	function	line:30
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<a class="button" href="#">Create a Profile<\/a>$/;"	function	line:31
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<div class="wrapper">$/;"	function	line:35
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^		<section class="touts">$/;"	function	line:36
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<section class="tout">$/;"	function	line:37
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<header>$/;"	function	line:38
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<h3>Create a Profile<\/h3>$/;"	function	line:39
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<p>Are you a Designer? Developer? Put yourself out there so that others can find you!<\/p>$/;"	function	line:41
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<a class="button" href="#">Sign Up Now<\/a>$/;"	function	line:42
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<section class="tout">$/;"	function	line:44
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<header>$/;"	function	line:45
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<h3>Find a Developer<\/h3>$/;"	function	line:46
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<p>Looking for a fantastic developer to work with on the next big thing? Look no further.<\/p>$/;"	function	line:48
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<a class="button" href="developers.html">Start Your Search<\/a>$/;"	function	line:49
+section	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^			<section class="tout">$/;"	function	line:51
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<header>$/;"	function	line:52
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^					<h3>Find a Designer<\/h3>$/;"	function	line:53
+p	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<p>Need someone who can make a product intuitive and appealing? Get ready.<\/p>$/;"	function	line:55
+a	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^				<a class="button" href="designers.html">Start Your Search<\/a>$/;"	function	line:56
+footer	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^	<footer>$/;"	function	line:60
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/index.html	/^		<div class="wrapper">$/;"	function	line:61
+html	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^<html lang="en-us">$/;"	function	line:2
+head	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^<head>$/;"	function	line:3
+meta	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<meta charset="utf-8">$/;"	function	line:4
+title	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<title>Startup Matchmaker | Our Team<\/title>$/;"	function	line:5
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<link href='http:\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,700|Oswald:700|Merriweather:700,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:6
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<link rel="stylesheet" href="css\/reset.css">$/;"	function	line:7
+link	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<link rel="stylesheet" href="css\/main.css">$/;"	function	line:8
+body	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^<body>$/;"	function	line:10
+header	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^	<header id="page-header">$/;"	function	line:11
+div	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^		<div class="wrapper">$/;"	function	line:12
+h	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^			<h1><a href="index.html">Startup Matchmaker<\/a><\/h1>$/;"	function	line:13
+nav	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^			<nav>$/;"	function	line:14
+ul	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^				<ul>$/;"	function	line:15
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^					<li><strong><a href="developers.html">Developers<\/a><\/strong><\/li>$/;"	function	line:16
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^					<li><strong><a href="designers.html">Designers<\/a><\/strong><\/li>			$/;"	function	line:17
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^					<li><a href="how.html">How it Works<\/a><\/li>			$/;"	function	line:18
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^					<li class="active"><a href="team.html">Our Team<\/a><\/li>			$/;"	function	line:19
+li	/Users/tombroomfield/GA/course_materials/Week_03_Layout/06_HTML_CSS_Lab/solution/startup_matchmaker_solution/team.html	/^					<li><a href="blog.html">Blog<\/a><\/li>			$/;"	function	line:20
